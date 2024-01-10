@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@react-native-community/voice": "^1.1.9",
+    "expo-speech": "^11.5.0"
+  }
 }
